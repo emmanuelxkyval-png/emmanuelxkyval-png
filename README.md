@@ -164,10 +164,9 @@ Tech Used: Node.js, Express.js, MongoDB
 
 📫 How to reach me...
 ---
-GitHub: https://github.com/your-username
+[My GitHub Profile Link](https://github.com/emmanuelxkyval-png)
 
-Email: your-email@example.com
-
+Email: chidumagaekwem@gmail.com
 
 
 ---
