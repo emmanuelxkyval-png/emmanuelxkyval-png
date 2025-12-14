@@ -129,7 +129,7 @@ Proper error handling
 
 Tech Used: Node.js, Express.js, MongoDB, Mongoose
 
-👉 Repo: Add link here
+[👉 Repo ](https://github.com/10xosborn/Notes-Rest-API)
 
 <img width="1920" height="1030" alt="app js - Notes-Rest-API - Visual Studio Code 14_12_2025 13_25_12" src="https://github.com/user-attachments/assets/5c50fe41-5bed-454f-9fcd-3aa4d6b8b15d" />
 
@@ -154,7 +154,7 @@ PATCH route to update task status only
 
 Tech Used: Node.js, Express.js, MongoDB
 
-👉 Repo: Add link here
+[👉 Repo ](https://github.com/emmanuelxkyval-png/todo.js)
 
 <img width="1920" height="1030" alt="app js - Week4-crud-todo-api - Visual Studio Code 14_12_2025 13_27_54" src="https://github.com/user-attachments/assets/d77fae80-e1a4-45f8-81ae-ad57df998064" />
 
